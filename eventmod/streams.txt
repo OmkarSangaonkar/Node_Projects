@@ -1,0 +1,8 @@
+hello and welcome to straming, 
+here we are gonig to see what extactly is stream.
+it is nothing but loading data or upload and download data in chunks(small pieces)
+it is helpful because we don't need to load full data we can see data quickly.
+
+
+
+

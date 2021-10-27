@@ -1,0 +1,82 @@
+[
+    {
+        "id": 1,
+        "first_name": "Renate",
+        "last_name": "Vallerine",
+        "email": "rvallerine0@globo.com",
+        "gender": "Polygender",
+        "job_title": "Internal Auditor"
+    },
+    {
+        "id": 2,
+        "first_name": "Adrian",
+        "last_name": "Wyne",
+        "email": "awyne1@npr.org",
+        "gender": "Non-binary",
+        "job_title": "Web Designer IV"
+    },
+    {
+        "id": 3,
+        "first_name": "Carley",
+        "last_name": "Endley",
+        "email": "cendley2@diigo.com",
+        "gender": "Genderqueer",
+        "job_title": "Systems Administrator III"
+    },
+    {
+        "id": 4,
+        "first_name": "Any",
+        "last_name": "Tolefree",
+        "email": "atolefree3@admin.ch",
+        "gender": "Female",
+        "job_title": "Account Executive"
+    },
+    {
+        "id": 5,
+        "first_name": "Vasili",
+        "last_name": "Durno",
+        "email": "vdurno4@businessinsider.com",
+        "gender": "Non-binary",
+        "job_title": "Director of Sales"
+    },
+    {
+        "id": 6,
+        "first_name": "Cordie",
+        "last_name": "Leinthall",
+        "email": "cleinthall5@barnesandnoble.com",
+        "gender": "Female",
+        "job_title": "Design Engineer"
+    },
+    {
+        "id": 7,
+        "first_name": "Carmela",
+        "last_name": "Aleshkov",
+        "email": "caleshkov6@fotki.com",
+        "gender": "Female",
+        "job_title": "Accountant IV"
+    },
+    {
+        "id": 8,
+        "first_name": "Kathryn",
+        "last_name": "Tommen",
+        "email": "ktommen7@state.gov",
+        "gender": "Female",
+        "job_title": "Legal Assistant"
+    },
+    {
+        "id": 9,
+        "first_name": "Kenna",
+        "last_name": "Bilovus",
+        "email": "kbilovus8@examiner.com",
+        "gender": "Non-binary",
+        "job_title": "Product Engineer"
+    },
+    {
+        "id": 10,
+        "first_name": "Lonny",
+        "last_name": "Boole",
+        "email": "lboole9@globo.com",
+        "gender": "Agender",
+        "job_title": "Staff Accountant I"
+    }
+]
